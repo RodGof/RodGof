@@ -15,6 +15,10 @@
 ### 💡 Amo um bom recomeço, um novo projeto e exelencia na entrega de resultados.
 ### 💡Amo esportes e eSports.
 
+#### Tenho atuado nos mais diversos projetos privados ou de iniciativa governamental, voltados para infraestrutura e apoio técnico em TI;
+#### Atuação como: B2B tecnical project, Field Service, System analist project e técnico de informatica local voltado a apoio a usuários/clientes e maquinas/hardware.
+
+# About-me:
 ### 🌐 Passionate about development
 ### 🎓 Bachelor's degree in Information Systems IT
 ### 💡 I love a good fresh start, a new project and excellent delivery.
