@@ -15,18 +15,25 @@
 ### 💡 Amo um bom recomeço, um novo projeto e exelencia na entrega de resultados.
 ### 💡Amo esportes e eSports.
 
-#### Tenho atuado nos mais diversos projetos privados ou de iniciativa governamental, voltados para infraestrutura e apoio técnico em TI;
-#### Atuação como: B2B tecnical project, Field Service, System analist project e técnico de informatica local voltado a apoio a usuários/clientes e maquinas/hardware.
+#### - Tenho atuado nos mais diversos projetos privados ou de iniciativa governamental, voltados para infraestrutura e apoio técnico em TI;
+
+## NIVEL DE PROJETOS | LEVEL: 
+#### Ponto a ponto em Serviços de TI empresarial | B2B tecnical project 
+#### Técnico Local em TI| Field Service
+#### Terceirização em TI | Outsorcing
+#### Analista de Sistemas | System analist project
+#### Help Desk
+#### Service Desk
+#### Ponto Focal | Focal point
+#### Administrador de projetos | Project Manager
+#### Técnico de informatica local voltado a apoio a usuários/clientes e maquinas/hardware.
+
 
 # About-me:
 ### 🌐 Passionate about development
 ### 🎓 Bachelor's degree in Information Systems IT
 ### 💡 I love a good fresh start, a new project and excellent delivery.
 ### 💡Love Sports e eSports.
-
-
-
-![Rodrigo Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=rodgof&show_icons=true&theme=transparent)
 
 ##### Tecnologias Utilizadas e Skills
 
