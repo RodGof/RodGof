@@ -10,10 +10,16 @@
 [![Blog](https://img.shields.io/badge/infrastructure-0077B5?style=for-the-badge&logo=)](https://drive.google.com/file/d/1d7PQ2-HaQ1HvGl42ThrXQBPq4TfNDcLC/view?usp=drive_link)
 
 # Sobre mim: 
+### 🌐 Passionate about development e projeto de Infraestrutura
+### 🎓 Bacharel em Sistemas de Informação, Pós Graduação: Administração de redes e servidores.
+### 💡 Amo um bom recomeço, um novo projeto e exelencia na entrega de resultados.
+### 💡Amo esportes e eSports.
 
-### 🌐 Passionate about web development
+### 🌐 Passionate about development
 ### 🎓 Bachelor's degree in Information Systems IT
 ### 💡 I love a good fresh start, a new project and excellent delivery.
+### 💡Love Sports e eSports.
+
 
 
 ![Rodrigo Ferreira GitHub stats](https://github-readme-stats.vercel.app/api?username=rodgof&show_icons=true&theme=transparent)
