@@ -10,10 +10,10 @@
 [![Blog](https://img.shields.io/badge/infrastructure-0077B5?style=for-the-badge&logo=)](https://drive.google.com/file/d/1d7PQ2-HaQ1HvGl42ThrXQBPq4TfNDcLC/view?usp=drive_link)
 
 # Sobre mim: 
-### 🌐 Passionate about development e projeto de Infraestrutura
+### 🌐 Java development Jr, e projeto de Infraestrutura em TI.
 ### 🎓 Bacharel em Sistemas de Informação, Pós Graduação: Administração de redes e servidores.
 ### 💡 Amo um bom recomeço, um novo projeto e exelencia na entrega de resultados.
-### 💡Amo esportes e eSports.
+### 💡 Amo esportes e eSports.
 
 #### - Tenho atuado nos mais diversos projetos privados ou de iniciativa governamental, voltados para infraestrutura e apoio técnico em TI;
 
