@@ -11,7 +11,8 @@
 
 # Sobre mim: 
 ### 🌐 Java development Jr, e projeto de Infraestrutura em TI.
-### 🎓 Bacharel em Sistemas de Informação, Pós Graduação: Administração de redes e servidores.
+### 🎓 Bacharel em Sistemas de Informação.
+### 🎓 Pós-Graduação: Administração de Redes e Servidores (UNIFAEL), Desenvolvimento de Sistemas com JAVA(Faculdade de Minas Gerais).
 ### 💡 Amo um bom recomeço, um novo projeto e exelencia na entrega de resultados.
 ### 💡 Amo esportes e eSports.
 
