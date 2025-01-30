@@ -10,11 +10,12 @@
 [![Blog](https://img.shields.io/badge/infrastructure-0077B5?style=for-the-badge&logo=)](https://drive.google.com/file/d/1d7PQ2-HaQ1HvGl42ThrXQBPq4TfNDcLC/view?usp=drive_link)
 
 # Sobre mim: 
+### 🎓 Bacharel: Sistemas de Informação.
+### 🎓 Pós-Graduação: Administração de Redes e Servidores (UNIFAEL).
+### 🎓 Desenvolvimento de Sistemas com JAVA(Faculdade de Minas Gerais).
+### 🎓 Técnico em Informatica, certificado (Instituto Técnologico Avançado do Amazonas - IETAAM).
+### 💡 SysAdmin | Network Admin | Analista de Sistemas | Tech Lead
 ### 🌐 Java development Jr, e projeto de Infraestrutura em TI.
-### 🎓 Bacharel em Sistemas de Informação.
-### 🎓 Pós-Graduação: Administração de Redes e Servidores (UNIFAEL), Desenvolvimento de Sistemas com JAVA(Faculdade de Minas Gerais).
-### 💡 Amo um bom recomeço, um novo projeto e exelencia na entrega de resultados.
-### 💡 Amo esportes e eSports.
 
 #### - Tenho atuado nos mais diversos projetos privados ou de iniciativa governamental, voltados para infraestrutura e apoio técnico em TI;
 
