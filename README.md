@@ -19,7 +19,7 @@
 
 #### - Tenho atuado nos mais diversos projetos privados ou de iniciativa governamental, voltados para infraestrutura e apoio técnico em TI;
 
-## NIVEL DE PROJETOS | LEVEL: 
+# NIVEL DE PROJETOS | LEVEL: 
 #### Ponto a ponto em Serviços de TI empresarial | B2B tecnical project 
 #### Técnico Local em TI| Field Service
 #### Terceirização em TI | Outsorcing
@@ -31,13 +31,13 @@
 #### Técnico de informatica local voltado a apoio a usuários/clientes e maquinas/hardware.
 
 
-# About-me:
+# ABOUT-ME:
 ### 🌐 Passionate about development
 ### 🎓 Bachelor's degree in Information Systems IT
 ### 💡 I love a good fresh start, a new project and excellent delivery.
 ### 💡Love Sports e eSports.
 
-## Tecnologias Utilizadas e Skills
+# Tecnologias Utilizadas e Skills
 
 <div style="display: inline_block"> <br/>
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
