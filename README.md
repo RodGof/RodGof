@@ -12,9 +12,9 @@
 # Sobre mim: 
 ### 🎓 Bacharel: Sistemas de Informação.
 ### 🎓 Pós-Graduação: Administração de Redes e Servidores (UNIFAEL).
-### 🎓 Desenvolvimento de Sistemas com JAVA(Faculdade de Minas Gerais).
-### 🎓 Técnico em Informatica, certificado (Instituto Técnologico Avançado do Amazonas - IETAAM).
-### 💡 SysAdmin | Network Admin | Analista de Sistemas | Tech Lead
+### 🎓 Pós-Graduação: Desenvolvimento de Sistemas com JAVA(Faculdade de Minas Gerais).
+### 🎓 Técnico: Técnico em Informatica (Instituto Técnologico Avançado do Amazonas - IETAAM).
+### 💡 SysAdmin | Network Admin | Analista de Sistemas | Tech Lead | DevOps JAVA, SQL
 ### 🌐 Java development Jr, e projeto de Infraestrutura em TI.
 
 #### - Tenho atuado nos mais diversos projetos privados ou de iniciativa governamental, voltados para infraestrutura e apoio técnico em TI;
@@ -34,8 +34,8 @@
 # ABOUT-ME:
 ### 🌐 Passionate about development
 ### 🎓 Bachelor's degree in Information Systems IT
-### 💡 I love a good fresh start, a new project and excellent delivery.
-### 💡Love Sports e eSports.
+### 💡 SysAdmin | Network Admin | Analista de Sistemas | Tech Lead | DevOps JAVA, SQL
+### 🌐 Java development Jr, e projeto de Infraestrutura em TI.
 
 # Tecnologias Utilizadas e Skills
 
